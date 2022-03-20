@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on a Full Stack Reddit clone
+- 🔭 I’m currently working on a Reddit clone
 - 🌱 I’m currently learning GraphQl
 <!--
 **Spiderdude1/Spiderdude1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
